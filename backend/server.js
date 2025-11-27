@@ -21,9 +21,9 @@ app.use(
       "http://localhost:5173",
       "http://localhost:5174",
       "http://localhost:5175",
-      "https://landing-pages-govtlandingpage.onrender.com/",
-      "https://landing-pages-freelancerlandingpage.onrender.com/",
-      "https://landing-pages-itlandingpage.onrender.com/"
+      "https://landing-pages-govtlandingpage.onrender.com",
+      "https://landing-pages-freelancerlandingpage.onrender.com",
+      "https://landing-pages-itlandingpage.onrender.com"
 
     ],
     methods: ["POST", "GET", "PUT", "DELETE"],
