@@ -21,6 +21,10 @@ app.use(
       process.env.FRONTEND_URL,
       "http://localhost:5174",
       "http://localhost:5175",
+      "https://landing-pages-govtlandingpage.onrender.com/",
+      "https://landing-pages-freelancerlandingpage.onrender.com/",
+      "https://landing-pages-itlandingpage.onrender.com/"
+
     ],
     methods: ["POST", "GET", "PUT", "DELETE"],
     credentials: true,
